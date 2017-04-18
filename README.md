@@ -1,4 +1,7 @@
-# api documentation for  [onetime (v2.0.1)](https://github.com/sindresorhus/onetime#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-onetime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-onetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-onetime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-onetime)
+# npmdoc-onetime
+
+#### api documentation for  [onetime (v2.0.1)](https://github.com/sindresorhus/onetime#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-onetime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-onetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-onetime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-onetime)
+
 #### Ensure a function is only called once
 
 [![NPM](https://nodei.co/npm/onetime.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/onetime)
