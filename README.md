@@ -1,6 +1,6 @@
 # npmdoc-onetime
 
-#### api documentation for  [onetime (v2.0.1)](https://github.com/sindresorhus/onetime#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-onetime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-onetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-onetime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-onetime)
+#### basic api documentation for  [onetime (v2.0.1)](https://github.com/sindresorhus/onetime#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-onetime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-onetime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-onetime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-onetime)
 
 #### Ensure a function is only called once
 
@@ -76,7 +76,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
